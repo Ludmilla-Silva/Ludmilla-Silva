@@ -2,7 +2,9 @@
 
 <img src="linkedin (1).png" width="26"></img></a> [Ludmilla Silva](https://www.linkedin.com/in/ludmilla-silva-pereira-35b8b214b)
 
-<img src="icone-instagram.png" width="26"></img></a> [Ludmilla Silva](https://www.instagram.com/ludmilla.silva.9)
+<img src="instagram-logo.png" width="26"></img></a> [Ludmilla Silva](https://www.instagram.com/ludmilla.silva.9)
+
+<img src="gmail.png" width="26"></img></a> ludmilla.silva44@gmail.com
 
 - 👋 Olá! Meu nome é Ludmilla Silva, sou Analista de implantação e atualmente estou me descobrindo através de programação mobile android, pelo projeto Vitoria Code, aprendendo os conhecimentos em Kotlin!
 
