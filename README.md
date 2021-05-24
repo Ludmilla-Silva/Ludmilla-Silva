@@ -6,7 +6,7 @@
 
 <img src="gmail.png" width="26"></img></a> ludmilla.silva44@gmail.com
 
-- 👋 Olá! Meu nome é Ludmilla Silva, sou Analista de implantação e atualmente estou me descobrindo através de programação mobile android, pelo projeto Vitoria Code, aprendendo os conhecimentos em Kotlin!
+- 👋 Olá! Meu nome é Ludmilla Silva, sou Analista de implantação e atualmente estou me descobrindo através de programação mobile android, pelo projeto Vitoria Code, aprendendo a linguagem em Kotlin!
 
 ___
 <!---
