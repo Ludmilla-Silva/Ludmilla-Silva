@@ -1,5 +1,9 @@
 <img src="Yellow Blue Pink White Fun Kid Virtual Trivia Quiz Presentations gif rosa.gif" width="2000"></h2>
 
+<img src="linkedin.png" width="26"></img></a> [LinkedIn](https://www.linkedin.com/in/ludmilla-silva-pereira-35b8b214b)
+
+<img src="https://github.com/pamellaend/pamellaend/blob/main/instagram.png" width="26"></img></a> [Instagram](https://www.instagram.com/pamendlich)
+
 - 👋 Hi, I’m @Ludmilla-Silva
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
